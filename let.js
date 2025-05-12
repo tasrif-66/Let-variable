@@ -31,3 +31,18 @@ console.log(playTime);
 
 
 
+
+/*
+ * Must start with a letter, _, or $
+
+Cannot start with a digit
+
+Can contain letters, digits, _, and $
+ */
+const 2ndposition = "awal";
+console.log(2ndposition);
+
+
+
+
+
